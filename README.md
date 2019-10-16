@@ -12,6 +12,9 @@ contains work on a Genetic Algorithm based solution for the Traveling Salesman P
 The following [repo](time_series_data/deep_learning_financial_time_series) contains work on deep learning and feature engineering applied to
 Finanical Time Series. 
 
+### Experimenting with Tensorflow 2.0 and Hyperparameter Optimization
 
+The following [jupyter notebook](tensorflow_2-0-experiment.ipynb) contains an exercise with
+Tensorflow 2.0, hyperparameter optimization, and the Fashion MNIST dataset. 
 
 
