@@ -1,0 +1,3 @@
+[submodule "mental_health_experiment/mood_penguin"]
+	path = mental_health_experiment/mood_penguin
+	url = git@github.com:andersnylund/mood-penguin.git

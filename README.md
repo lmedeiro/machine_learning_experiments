@@ -24,3 +24,14 @@ on capturing information about a certain subject (hence the finance related book
 the machine text response to arbitrary phrases. The goal is to investigate different models and
 processing methods that will allow the machine to provide coherent responses, reflecting knowledge
 on the subject ( a general theme in the training data). 
+
+### Junction 2019 Mental Health Challenge
+
+During the Junction 2019 challenge our team tried to propose a solution for the mental 
+health challenge that exists in Finland. Our solution, which is 
+[here](mental_health_experiment/mood_penguin) was composed of a mobile web tool 
+where users can log their feelings. The goal is to ingest this data and through NLP and 
+Machine Learning produce some data-driven feedback that is able to help up-lift users. 
+
+The components developed thus far was the NLP system, produced by a microsoft azure 
+cognitive service, and information logging for the user.
