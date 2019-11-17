@@ -29,7 +29,8 @@ on the subject ( a general theme in the training data).
 
 During the Junction 2019 challenge our team tried to propose a solution for the mental 
 health challenge that exists in Finland. Our solution, which is 
-[here](mental_health_experiment/mood_penguin) was composed of a mobile web tool 
+[here](https://github.com/andersnylund/mood-penguin/tree/18e4c74ac9059b529a14ab2509330c6bc2d05990)
+was composed of a mobile web tool 
 where users can log their feelings. The goal is to ingest this data and through NLP and 
 Machine Learning produce some data-driven feedback that is able to help up-lift users. 
 
