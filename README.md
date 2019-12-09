@@ -1,4 +1,4 @@
-# Machine Learning Experiments
+#Machine Learning Experiments
 This repo contains general experiments related to Machine Learning and Artificial
 Inteligence. If the experiments are more involved, they will be placed in separate folder.
 
@@ -36,3 +36,12 @@ Machine Learning produce some data-driven feedback that is able to help up-lift 
 
 The components developed thus far was the NLP system, produced by a microsoft azure 
 cognitive service, and information logging for the user.
+
+### Evaluation of Different Covariance Estimators in the Context of PCA Feature Engineering for Convolutional Neural Networks Image Classification
+
+On [this repo](https://github.com/lmedeiro/covariance_estimators_in_machine_learning)
+you will find a project in which different covariance estimators are evaluated in the context
+of PCA feature engineering. The model is a simple CNN LeNet5 model, performing
+classification on the Fashion-MNIST dataset. The general goal is to evaluate how classfication
+performance will change as a function of the the number of samples avaible for training
+(images in this case) and the different covariance estimators. 
