@@ -1,4 +1,4 @@
-#Machine Learning Experiments
+# Machine Learning Experiments
 This repo contains general experiments related to Machine Learning and Artificial
 Inteligence. If the experiments are more involved, they will be placed in separate folder.
 
